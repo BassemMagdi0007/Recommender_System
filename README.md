@@ -22,8 +22,8 @@ Before running the code, please ensure to modify the file path in the script to 
 
 ```python
 file_path = 'path/to/your/file.csv'
-Replace 'path/to/your/file.csv' with the correct path to the CSV file on your system.
 ```
+Replace 'path/to/your/file.csv' with the correct path to the CSV file on your system.
 
 ## **Libraries Used:**
 This project utilizes the following Python libraries:
